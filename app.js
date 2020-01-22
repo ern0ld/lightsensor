@@ -18,3 +18,4 @@ function lightsensor(){
     
   }
   lightsensor();
+  console.log("Täällä ollaan");

@@ -14,8 +14,7 @@ function lightsensor(){
     }
     else {
       console.log("Valosensori ei käytettävissä");
-    }
-    
+    } 
   }
   lightsensor();
   console.log("Täällä ollaan");
